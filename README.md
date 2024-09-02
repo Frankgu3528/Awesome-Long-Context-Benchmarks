@@ -1,5 +1,8 @@
 # Long-Context LLM Benchmarks
 
+🚀 A List of Long-Context LLM Benchmarks. Better view at [here](https://frankgu3528.github.io/Awesome-Long-Context-Benchmarks/).
+
+
 | Dataset  | Release Date | Type | Domain | Token Length | Language | Data  Released? | Answer Released |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ZeroSCROLLS](https://arxiv.org/abs/2305.14196) | 2023-05 | Realistic | Novel Report Meetings TV Wikipedia | Avg ~15k | EN | ✅ | ❌ |
